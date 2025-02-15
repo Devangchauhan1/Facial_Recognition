@@ -1,1 +1,2 @@
 # Facial_Recognition
+Facial recognition in Python can be implemented using the face_recognition and OpenCV libraries. First, install the required packages using pip install face-recognition opencv-python numpy. Then, load known and unknown images, encode the faces, and compare them using face_recognition.compare_faces(). For real-time recognition, use OpenCV to capture video, detect faces, and match them with stored encodings. This method is efficient for security, authentication, and surveillance applications.
